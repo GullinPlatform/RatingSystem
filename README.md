@@ -11,33 +11,9 @@ The ICOToday rating system evaluates companies launching ICOs for three importan
 
 These factors will have corresponding scores. The risk assessment will include the Legal analysis since compliance contributes to the risk of the ICO. Below are the scores. The numeric score will be converted to a sentiment based on our algorithm.
 
--
-**●●** Company Potential -
-#
-[ANNOTATION:
-
-BY &#39;Elorm Koto&#39;
-ON &#39;2017-10-28T20:21:52&#39;
-NOTE: &#39;Gotcha, Sounds good&#39;]
-
-#
-[ANNOTATION:
-
-BY &#39;Joseph Kitonga&#39;
-ON &#39;2017-10-28T19:32:23&#39;
-NOTE: &#39;disagree: If the company potential of an ICO is very high then it&#39;s implied that analysts think the company will do well in the long term&#39;]
-
-#
-[ANNOTATION:
-
-BY &#39;Elorm Koto&#39;
-ON &#39;2017-10-28T17:48:38&#39;
-NOTE: &#39;What does Very High mean to a user??&#39;
-NOTE: &#39;&#39;
-NOTE: &#39;We should change this to High Quality, Decent Quality, Average, Low Quality &amp; Bad Quality,&#39;]
-Very Low, Low, Medium, High, Very High
-- **●●** Risk -  Very Low, Low, Medium, High, Very High
-- **●●** Awareness -  Very Low, Low, Medium, High, Very High
+- **●●** Company Potential - Very Low, Low, Medium, High, Very High
+- **●●** Risk Assessment - Very Low, Low, Medium, High, Very High
+- **●●** Community Awareness - Very Low, Low, Medium, High, Very High
 
 Below is the breakdown of what each score means.
 
